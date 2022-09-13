@@ -31,13 +31,18 @@ h1 {
     vertical-align: 15px;
 }
 
-span {
-    display: inline-block;
-}
-
 .blue {
     background-color: blue;
     color: white;
     margin-top: 15px;
     font-size: x-large;
+    display: inline-block;
+}
+
+.white {
+    background-color: aliceblue;
+    color: grey;
+    margin-top: 15px;
+    font-size: x-large;
+    display: inline-block;
 }
