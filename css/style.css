@@ -15,7 +15,6 @@ header {
     margin-left: auto;
     margin-top: 50px;
     text-align: left;
-    padding-left: 20px;
 }
 
 .container2 {
@@ -23,7 +22,17 @@ header {
     width: 1100px;
     margin-right: auto;
     margin-left: auto;
+    text-align: left;
+    margin-top: 1px;
 
+}
+
+.wrapper {
+    margin: 20px;
+}
+
+.wrapper2 {
+    margin: 20px;
 }
 
 body {
@@ -45,6 +54,7 @@ body {
     margin-top: 15px;
     font-size: x-large;
     display: inline-block;
+    border-radius: 8px;
 }
 
 .white {
@@ -54,4 +64,46 @@ body {
     margin-top: 15px;
     font-size: x-large;
     display: inline-block;
+    border-radius: 8px;
+}
+
+.titolo2 {
+    font-size: x-large;
+}
+
+.editorial {
+    display: inline-block;
+    background-color: lightblue;
+    color: white;
+    border-radius: 5px;
+}
+
+.goals {
+    display: inline-block;
+    background-color: violet;
+    color: white;
+}
+
+.recluting {
+    display: inline-block;
+    background-color: lightgreen;
+    color: white;
+}
+
+.mobile{
+    display: inline-block;
+    background-color: orange;
+    color: white;
+}
+
+.website {
+    display: inline-block;
+    background-color: pink;
+    color: white;
+}
+
+.sales {
+    display: inline-block;
+    background-color: lawngreen;
+    color: white;
 }
